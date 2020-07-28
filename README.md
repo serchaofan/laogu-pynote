@@ -1,2 +1,2 @@
-# laogu-pynote
-jupyter notebook笔记
+## jupyter notebook笔记
+- [numpy笔记](./numpy.ipynb)
